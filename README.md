@@ -22,7 +22,7 @@
 ## References
 -  https://youtu.be/i7sEo6K3gZ0  -but iadd other code from other sites
 
-## Contibuting to {BSCS-18-ProjectTitle}
+## {BSCS-18-ProjectTitle}
 To contribute to {BSCS-18-Notepad-Python}, make sure to give a star and forked this repository.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
