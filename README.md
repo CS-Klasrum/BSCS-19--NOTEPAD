@@ -4,7 +4,7 @@
 
 ## Started by
 
-- Jhumell Brao Batch,  2019 - 2020 
+- Jhumell Brao Batch  {2019 - 2020}
 
 
 # Pre-requisites
